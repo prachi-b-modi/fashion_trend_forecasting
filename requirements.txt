@@ -1,0 +1,9 @@
+pandas
+numpy
+opencv-python
+matplotlib
+spacy
+prophet
+streamlit
+scikit-learn
+wordcloud
